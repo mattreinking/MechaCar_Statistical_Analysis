@@ -9,14 +9,18 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 - Suspension_Coil.csv
 
 ## Linear Regression to Predict MPG
-
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   
+  
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  
+![image](https://user-images.githubusercontent.com/86776606/199379364-ce980b3c-405a-4348-95c6-164ddd99515d.png)  
+  P-values show intecept, and AWD are <0.05 which means these variables provide a non-random amount of variance.
 
   
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Is the slope of the linear model considered to be zero? Why or why not?  
 
+
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  
+![image](https://user-images.githubusercontent.com/86776606/199379466-1ba92734-89ff-4b35-8ca1-8262be30593b.png)  
 
 ## Summary Statistics on Suspension Coils
 
