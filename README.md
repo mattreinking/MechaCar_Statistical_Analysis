@@ -17,11 +17,13 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
   
 - Is the slope of the linear model considered to be zero? Why or why not?  
-
-
+The slope of the linear model is not zero because our p-value is not equal to zero.  
+  
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  
 ![image](https://user-images.githubusercontent.com/86776606/199379466-1ba92734-89ff-4b35-8ca1-8262be30593b.png)  
-
+The R-squared value is the data point important for determining if the linear model is accurately predicting the mpg of MechaCar prototypes. R-squared has a value of 0.7149 which says the linear model is accurately predicting 71% of the time.  
+  
+  
 ## Summary Statistics on Suspension Coils
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?  
@@ -34,6 +36,15 @@ Based on the data above, the variance column shows Lot1 and Lot2 do not exceed 1
   
 
 ## T-Tests on Suspension Coils
+- Normal sample test  
+![image](https://user-images.githubusercontent.com/86776606/199403895-9ff3b58b-92f7-44bf-8abd-5dd642036d96.png)
+- Lot 1  
+![image](https://user-images.githubusercontent.com/86776606/199404105-8904da93-3299-4426-a1a2-3b3bcc1043c3.png)
+- Lot 2  
+![image](https://user-images.githubusercontent.com/86776606/199404186-35c2bee6-95e1-4728-bf84-7e3ff702f833.png)
+- Lot 3  
+![image](https://user-images.githubusercontent.com/86776606/199404236-3fedfa39-56fe-4093-8b93-16304f9b5336.png)
+
 
 
 
