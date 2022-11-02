@@ -39,18 +39,18 @@ Based on the data above, the variance column shows Lot1 and Lot2 do not exceed 1
 - Normal sample test  
 ![image](https://user-images.githubusercontent.com/86776606/199403895-9ff3b58b-92f7-44bf-8abd-5dd642036d96.png)
 - Lot 1  
-![image](https://user-images.githubusercontent.com/86776606/199404105-8904da93-3299-4426-a1a2-3b3bcc1043c3.png)
+![image](https://user-images.githubusercontent.com/86776606/199404105-8904da93-3299-4426-a1a2-3b3bcc1043c3.png)  
+The p-value of Lot 1 is equal to 1 which is much higher than the 0.05 threshold which means we reject the null hypothesis.  
 - Lot 2  
-![image](https://user-images.githubusercontent.com/86776606/199404186-35c2bee6-95e1-4728-bf84-7e3ff702f833.png)
+![image](https://user-images.githubusercontent.com/86776606/199404186-35c2bee6-95e1-4728-bf84-7e3ff702f833.png)  
+The p-value of Lot 2 is equal to 0.6072 which is much higher than the 0.05 threshold which means we reject the null hypothesis.  
 - Lot 3  
-![image](https://user-images.githubusercontent.com/86776606/199404236-3fedfa39-56fe-4093-8b93-16304f9b5336.png)
-
-
-
+![image](https://user-images.githubusercontent.com/86776606/199404236-3fedfa39-56fe-4093-8b93-16304f9b5336.png)    
+The p-value of Lot 3 is equal to 0.04168 which is much higher than the 0.05 threshold which means we do not reject the null hypothesis.  
+  
+  
+All lots as a whole are not statistically different from the population mean of 1,500 pounds per square inch due to having a p-value of 0.06028. Because the p-value is >0.05, we reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
+
