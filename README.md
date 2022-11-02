@@ -52,5 +52,11 @@ The p-value of Lot 3 is equal to 0.04168 which is much higher than the 0.05 thre
 All lots as a whole are not statistically different from the population mean of 1,500 pounds per square inch due to having a p-value of 0.06028. Because the p-value is >0.05, we reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
+A great study to perform for the MechaCar would be the exhaust emission rates. The world aims to be much more environmentally friendly now. The MechaCar can be a suffcient alternative to other electric vehicles.  
+
+Null Hypothesis: The exhaust emission rates will be the same between all the different manufacturers.
+
+Alternative Hypothesis: A manufacturer will not have the same exhaust emission rates as other manufacturers.
 
 
+A statistical test I would use would be to research the variance of exhaust emission rates against transmission efficiency. In this case, transmission efficiency would be our independent variable used to explain its relationship to exhaust emission rates.
